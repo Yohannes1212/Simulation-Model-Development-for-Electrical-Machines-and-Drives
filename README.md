@@ -19,13 +19,13 @@ This project, conducted as part of my internship in the African Undergraduate Re
 
 ## Files
 - **Simulink Models**:
-  - `encoder_model.slx`: Simulates the encoder's pulse generation and direction sensing.
-  - `encoder_position_detector.slx`: Computes position and direction using encoder signals.
-- **Report**: The full internship report is included under the `Report/` directory.
+  - `encoder_model`: Simulates the encoder's pulse generation and direction sensing.
+  - `encoder_position_detector`: Computes position and direction using encoder signals.
+- **Report**: The full internship report is under the `Report/` directory.
 
 ## How to Use
 1. Open the `.slx` files in MATLAB Simulink (R2020b or later recommended).
-2. Follow instructions in the report for simulation parameters.
+2. Follow the instructions in the report for simulation parameters.
 3. Adjust input parameters such as rotor angle and direction as needed.
 
 ## Acknowledgments
