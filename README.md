@@ -37,5 +37,3 @@ This project, conducted as part of my internship in the African Undergraduate Re
 - [AURA 2020 Projects](https://aura.engin.umich.edu/past-cohorts/aura-2020/projects-2020)
 - [Internship Presentation Video](https://youtu.be/qp7A2U3DojA)
 
-## License
-This repository is licensed under the MIT License. Please see the `LICENSE` file for details.
