@@ -1,4 +1,5 @@
-# Rotor Angle and Position Measurement: Modeling and Simulation of Encoder and Encoder-Based Position Detector
+# Simulation Model Development for Electrical Machines and Drives
+Rotor Angle and Position Measurement: Modeling and Simulation of Encoder and Encoder-Based Position Detector
 
 ## Project Overview
 This project, conducted as part of my internship in the African Undergraduate Research Adventure [AURA](https://aura.engin.umich.edu/home) program at the University of Michigan, focuses on developing Simulink models for:
